@@ -6,11 +6,13 @@
  * http://www.theborn.co.kr/tb/store_domestic.asp
  * http://www.theborn.co.kr/store_detail.asp?shop_seq=1&amp;st_seoul=&amp;st_region=&amp;shop_seoul=&amp;t_shop_region=&amp;shop_brand_seq=2&amp;str_na="
 
-
 2. 위도 경도 알기 위해서  Google Maps Geocoding API
  * http://amornatura.tistory.com/84
+ 
+3. 기본 사용한 라이브러리  
+ pandas, numpy, matplotlib.pyplot, folium
 
-3. 추가 설치 파이썬 패키지 
+4. 추가 설치 파이썬 패키지 
 ```bash
 	easy_install pip cssselect
 	easy_install pip pycurl
