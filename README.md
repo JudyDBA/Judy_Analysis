@@ -1,1 +1,1 @@
-# Judy Analysis Study^^
+# 주디아줌마 머신러닝 공부장
